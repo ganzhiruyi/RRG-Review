@@ -63,6 +63,8 @@ If your research is related to our work, please cite the following paper:
 
 ### 2022
 
+[MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)
+
 [AACL 2022] Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations [pdf](https://aclanthology.org/2022.aacl-main.47/)
 
 [ACL 2022] Reinforced Cross-modal Alignment for Radiology Report Generation [pdf](https://aclanthology.org/2022.findings-acl.38/)
@@ -89,9 +91,6 @@ If your research is related to our work, please cite the following paper:
 [CVPR 2021] A Self-boosting Framework for Automated Radiographic Report Generation [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)
 
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
-
-[NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[pdf]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
-
 
 ### 2020
 
